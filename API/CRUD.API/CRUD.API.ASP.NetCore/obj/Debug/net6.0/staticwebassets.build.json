@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rusHMiWG7N2om5TzG6t+u8Q7MC49rML5FkmVgpTbGZ0=",
+  "Source": "CRUD.API.ASP.NetCore",
+  "BasePath": "_content/CRUD.API.ASP.NetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
